@@ -8,7 +8,7 @@ Every time you view an Image in Discord, it gets saved in your cache folder as a
 **Discache** allows you to convert those files back to viewable pictures.
 
 This tool works with vanilla Discord. 
-You won't need to have 
+You won't need to have any
 3rd party programs such as **[BetterDiscord](https://betterdiscord.app/)**.
 
 | Canary  | Vanilla | Test Build |
