@@ -4,7 +4,15 @@
 </p>
 
 # discache 🦀
-Turn your discord cache back to viewable images.
+Every time you view an Image in Discord, it gets saved in your cache folder as an unviewable file. 
+**Discache** allows you to convert those files back to viewable pictures.
+
+This tool works with vanilla Discord. You won't need to have 
+3rd party programs such as **[BetterDiscord](https://betterdiscord.app/)**.
+
+| Canary  | Vanilla | Test Build |
+| -------- | --------  | --------  |
+| ✔  | ✔  |  ✔  |
 
 # ⚡️  CONTRIBUTION
 
